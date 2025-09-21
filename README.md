@@ -1,4 +1,4 @@
-# SoPrius Toxicology– Flutter Mobile & Web App
+# SoPrius Toxicology– Flutter Web App
 
 ## 📖 Overview
 **SoPrius Toxicology** is part of the broader SoPrius platform, a Laboratory Information System (LIS) designed to enhance the efficiency, accuracy, and reliability of medical laboratory operations. While the core SoPrius system supports multiple lab types—including anatomic pathology and clinical diagnostics—the Toxicology module focuses specifically on toxicology workflows.
